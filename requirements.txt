@@ -1,6 +1,6 @@
 ipinfo
 geocoder
-phonenumber
+phonenumbers
 bs4
 rich
 colorama
