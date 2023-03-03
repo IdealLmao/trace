@@ -1,0 +1,8 @@
+ipinfo
+geocoder
+phonenumber
+bs4
+rich
+colorama
+keyboard
+requests
